@@ -36,6 +36,6 @@ A Python script demonstrating 12 types of plots using three classic open-source 
 
 ## How to Run
 
-1. Install requirements:
+1. Install :
    ```bash
-   pip install -r requirements.txt
+   pip install pandas numpy matplotlib seaborn scikit-learn
